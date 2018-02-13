@@ -9,3 +9,5 @@ Compute the nth fibonacci number.
    - The 0th fibonacci number is 0
    - The 1st fibonacci number is 1
    - The 6th fibonacci number is 8
+
+**Further reading:** Learn more on [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number) to be prepared to answer similar questions to the one we did in this exercise.

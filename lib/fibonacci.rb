@@ -5,6 +5,5 @@
 # ....
 # e.g. 6th fibonacci number is 8
 def fibonacci(n)
-  puts "NOT IMPLEMENTED"
-  return n
+  raise NotImplementedError
 end
