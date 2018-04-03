@@ -1,3 +1,6 @@
+
+![Travis CI image](https://travis-ci.org/CheezItMan/fibonacci.svg?branch=master)
+
 # Fibonacci
 Compute the nth fibonacci number.
 
