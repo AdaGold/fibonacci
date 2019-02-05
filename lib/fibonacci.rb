@@ -4,6 +4,9 @@
 # e.g. 1st fibonacci number is 1
 # ....
 # e.g. 6th fibonacci number is 8
+
+# Time complexity: ?
+# Space complexity: ?
 def fibonacci(n)
   raise NotImplementedError
 end
